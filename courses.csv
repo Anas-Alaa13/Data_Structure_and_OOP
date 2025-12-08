@@ -1,0 +1,29 @@
+Course_Title,Syllabus,Credit_Hours,Instructor,Prerequisites
+Probability,SampleSpace-Variancce and Standerd diviation,3,Hassan Ramadan,Ethics
+Psycology,4-chabter,2,Abdelaziz-Moataz,
+Physics1,Movement in one Direction,3,Salsabil Amin,
+Intro to prograning,Basics,3,Naglaa,
+English,Basics,2,Marian,
+Calculus1,Difrintoiniation,3,Esraa,SP
+Calculus2 ,Integration,3,Mohamed,
+Electronics,Basics,4,Mahmoud,
+Physics2,Electric and Magnitic Feiled,3,Hassan Ramadan,
+Ethics,Ethics,2,Elawady,
+Business,Business,2,Amira,
+SP,Advanced Concep in Programing,3,Naglaa and Salsabil,OOP
+Database,SQl and basics concept,3,Huda,
+Discreat Math,Logic thinking,3,Mohamed,Calculus2
+Logic design,Basics in design,3,Randa,Electronics
+OOP,OOP,3,Mabrouk,SP
+Report Writing,Report Writing,3,Sally,Business
+Statistical Analysis,State,3,Hanan,Probability
+OS,Oprating-system,0,Ahmed_Salah,OOP
+Soft,Software,3,Anas,SP
+AA,LL,0,KL,OS
+GP,Pro,3,Anas,SP
+SW,ccmn,3,mm,SP
+Math,Graphs,3,Anas,SP
+AI,jsf;jdfskdl;d,4,dina,
+Machine Learning,jsf;jdfskdl;d,4,ahmed,AI
+Neural Network,jsf;jdfskdl;d,4,aya,AI
+Data Structure,Map and Set and Vector,3,Hanan,OOP

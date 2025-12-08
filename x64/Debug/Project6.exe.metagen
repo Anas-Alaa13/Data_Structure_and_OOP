@@ -1,0 +1,58 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Project6, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class LoginGUI.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(DataManager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginGUI.RegisterForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(DataManager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginGUI.InputDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox inputBox : Public
+Class LoginGUI.ManagedCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String title : Public
+    System.String syllabus : Public
+    Int32 creditHours : Public
+    System.String instructor : Public
+    System.String prerequisites : Public
+Class LoginGUI.ManagedGrade: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Subject : Public
+    Int32 Quiz : Public
+    Int32 Assignment : Public
+    Int32 Midterm : Public
+    Int32 Practical : Public
+    Int32 Final : Public
+    Int32 Total : Public
+    Double GPA : Public
+    Int32 ID : Public
+Class LoginGUI.StudentForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(DataManager*, Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginGUI.AdminForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(DataManager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginGUI.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(DataManager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginGUI.ForgotPasswordForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(DataManager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

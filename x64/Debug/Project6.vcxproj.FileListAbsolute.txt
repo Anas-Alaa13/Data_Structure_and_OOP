@@ -1,0 +1,2 @@
+D:\VS\C++\Project6\Project6\x64\Debug\Project6.vcxproj.AssemblyReference.cache
+C:\Users\w.i\Desktop\DSGUI\Project6\Project6\x64\Debug\Project6.vcxproj.AssemblyReference.cache
