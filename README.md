@@ -3,15 +3,16 @@
 
 A comprehensive course management system for students and administrators
 
-#📌 Overview
+# 📌Overview
 This system facilitates course registration for students while providing administrators with tools to manage academic content, prerequisites, and student records efficiently.
 
-#✨ Key Features
+# ✨ Key Features
 For Students:
 🔍 Search available courses
 📝 Register for courses with automatic prerequisite validation
 📊 View grades and academic history
 📄 Generate comprehensive academic reports
+
 For Administrators:
 ➕ Add/edit course descriptions
 ⛓ Manage course prerequisites
